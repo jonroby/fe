@@ -24,6 +24,7 @@ class Stack {
   }
 }
 
+module.exports = Stack;
 // const s = new Stack();
 // s.push('a');
 // s.push('b');
