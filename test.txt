@@ -1,1 +1,3 @@
 Hello magit
+
+hello again
